@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rakesh-kumar07/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rakesh-kumar07/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/rakesh-kumar07/leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rakesh-kumar07/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/rakesh-kumar07/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
