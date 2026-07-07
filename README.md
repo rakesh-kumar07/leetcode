@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rakesh-kumar07/leetcode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/rakesh-kumar07/leetcode/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh-kumar07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
