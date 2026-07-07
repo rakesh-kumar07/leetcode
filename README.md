@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rakesh-kumar07/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/rakesh-kumar07/leetcode/tree/master/1323-maximum-69-number) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rakesh-kumar07/leetcode/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/rakesh-kumar07/leetcode/tree/master/1323-maximum-69-number) |
 ## Trie
 |  |
 | ------- |
