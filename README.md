@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/rakesh-kumar07/leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/rakesh-kumar07/leetcode/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
