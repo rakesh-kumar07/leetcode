@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rakesh-kumar07/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rakesh-kumar07/leetcode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rakesh-kumar07/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rakesh-kumar07/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rakesh-kumar07/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rakesh-kumar07/leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rakesh-kumar07/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/rakesh-kumar07/leetcode/tree/master/0342-power-of-four) |
 ## Brainteaser
 |  |
 | ------- |
