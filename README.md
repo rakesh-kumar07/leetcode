@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh-kumar07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/rakesh-kumar07/leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/rakesh-kumar07/leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0118-pascals-triangle) |
 | [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
 ## Probability and Statistics
 |  |
