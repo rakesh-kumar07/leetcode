@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rakesh-kumar07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh-kumar07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/rakesh-kumar07/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/rakesh-kumar07/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rakesh-kumar07/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/rakesh-kumar07/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rakesh-kumar07/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/rakesh-kumar07/leetcode/tree/master/0066-plus-one) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rakesh-kumar07/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/rakesh-kumar07/leetcode/tree/master/0048-rotate-image) |
 ## Database
 |  |
 | ------- |
