@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rakesh-kumar07/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/rakesh-kumar07/leetcode/tree/master/1323-maximum-69-number) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh-kumar07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh-kumar07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
