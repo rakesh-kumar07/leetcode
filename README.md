@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rakesh-kumar07/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
+| [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rakesh-kumar07/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rakesh-kumar07/leetcode/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 ## Database
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rakesh-kumar07/leetcode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
