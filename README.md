@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakesh-kumar07/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/rakesh-kumar07/leetcode/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rakesh-kumar07/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rakesh-kumar07/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rakesh-kumar07/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rakesh-kumar07/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakesh-kumar07/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakesh-kumar07/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
