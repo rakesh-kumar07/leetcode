@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rakesh-kumar07/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rakesh-kumar07/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rakesh-kumar07/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rakesh-kumar07/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rakesh-kumar07/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/rakesh-kumar07/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rakesh-kumar07/leetcode/tree/master/0504-base-7) |
 ## Sliding Window
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rakesh-kumar07/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
