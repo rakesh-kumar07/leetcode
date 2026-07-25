@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rakesh-kumar07/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/rakesh-kumar07/leetcode/tree/master/1323-maximum-69-number) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh-kumar07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3536-maximum-product-of-two-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
