@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rakesh-kumar07/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rakesh-kumar07/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/3536-maximum-product-of-two-digits) |
