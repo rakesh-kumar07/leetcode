@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rakesh-kumar07/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/rakesh-kumar07/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rakesh-kumar07/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rakesh-kumar07/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/rakesh-kumar07/leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/rakesh-kumar07/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rakesh-kumar07/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rakesh-kumar07/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rakesh-kumar07/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/rakesh-kumar07/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -186,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/rakesh-kumar07/leetcode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rakesh-kumar07/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/rakesh-kumar07/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0509-fibonacci-number) |
 | [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
 ## Probability and Statistics
