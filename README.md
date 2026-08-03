@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rakesh-kumar07/leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/rakesh-kumar07/leetcode/tree/master/1323-maximum-69-number) |
+| [1406-stone-game-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/1406-stone-game-iii) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/rakesh-kumar07/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0509-fibonacci-number) |
 | [0837-new-21-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/1406-stone-game-iii) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -238,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh-kumar07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
