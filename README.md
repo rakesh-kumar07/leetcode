@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh-kumar07/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rakesh-kumar07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rakesh-kumar07/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rakesh-kumar07/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rakesh-kumar07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh-kumar07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/rakesh-kumar07/leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/rakesh-kumar07/leetcode/tree/master/3945-digit-frequency-score) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rakesh-kumar07/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rakesh-kumar07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh-kumar07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/3536-maximum-product-of-two-digits) |
