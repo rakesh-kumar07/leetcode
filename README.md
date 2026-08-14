@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh-kumar07/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/rakesh-kumar07/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rakesh-kumar07/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
