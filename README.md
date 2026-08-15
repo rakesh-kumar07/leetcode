@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rakesh-kumar07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rakesh-kumar07/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rakesh-kumar07/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rakesh-kumar07/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rakesh-kumar07/leetcode/tree/master/0342-power-of-four) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh-kumar07/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rakesh-kumar07/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
