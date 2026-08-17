@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh-kumar07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/rakesh-kumar07/leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh-kumar07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rakesh-kumar07/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
 ## Memoization
 |  |
 | ------- |
