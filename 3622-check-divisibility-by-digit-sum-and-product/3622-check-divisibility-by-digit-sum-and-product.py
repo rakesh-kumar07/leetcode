@@ -8,7 +8,4 @@ class Solution:
             s=s+rem
             p=p*rem
             n=n//10
-        if n1%(s+p)==0:
-            return True
-        else:
-            return False        
+        return n1%(s+p)==0        
