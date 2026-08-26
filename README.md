@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh-kumar07/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2235-add-two-integers](https://github.com/rakesh-kumar07/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rakesh-kumar07/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rakesh-kumar07/leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
