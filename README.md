@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rakesh-kumar07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rakesh-kumar07/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh-kumar07/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rakesh-kumar07/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rakesh-kumar07/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rakesh-kumar07/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/rakesh-kumar07/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh-kumar07/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rakesh-kumar07/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
 ## Memoization
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
