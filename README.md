@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rakesh-kumar07/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rakesh-kumar07/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/rakesh-kumar07/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/rakesh-kumar07/leetcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/rakesh-kumar07/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rakesh-kumar07/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/rakesh-kumar07/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/rakesh-kumar07/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0509-fibonacci-number) |
