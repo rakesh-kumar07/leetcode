@@ -3,5 +3,5 @@ class Solution:
         x,y=min(nums),max(nums)
         while y != 0:
             x,y = y, x % y
-        return abs(x)
+        return x
         
