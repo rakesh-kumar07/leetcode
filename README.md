@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/rakesh-kumar07/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/rakesh-kumar07/leetcode/tree/master/3945-digit-frequency-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/rakesh-kumar07/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/rakesh-kumar07/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/rakesh-kumar07/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
 |  |
 | ------- |
