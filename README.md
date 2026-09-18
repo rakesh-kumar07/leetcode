@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/rakesh-kumar07/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/rakesh-kumar07/leetcode/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/3959-check-good-integer) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/rakesh-kumar07/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Recursion
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/3959-check-good-integer) |
 ## Memoization
 |  |
 | ------- |
