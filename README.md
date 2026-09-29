@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/rakesh-kumar07/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rakesh-kumar07/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rakesh-kumar07/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rakesh-kumar07/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rakesh-kumar07/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/rakesh-kumar07/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/rakesh-kumar07/leetcode/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rakesh-kumar07/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rakesh-kumar07/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rakesh-kumar07/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rakesh-kumar07/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rakesh-kumar07/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Brainteaser
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/rakesh-kumar07/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rakesh-kumar07/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rakesh-kumar07/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
