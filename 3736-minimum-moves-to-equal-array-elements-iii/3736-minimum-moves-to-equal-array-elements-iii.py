@@ -3,5 +3,5 @@ class Solution:
         maximum=max(nums)
         total=0
         for num in nums:
-            total+=(maximum-num)
+            total+=maximum-num
         return total
