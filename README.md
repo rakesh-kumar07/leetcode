@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rakesh-kumar07/leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rakesh-kumar07/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/rakesh-kumar07/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rakesh-kumar07/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rakesh-kumar07/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/rakesh-kumar07/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rakesh-kumar07/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/rakesh-kumar07/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rakesh-kumar07/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rakesh-kumar07/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/rakesh-kumar07/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/rakesh-kumar07/leetcode/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/rakesh-kumar07/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
