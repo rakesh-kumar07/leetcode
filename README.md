@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rakesh-kumar07/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rakesh-kumar07/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/rakesh-kumar07/leetcode/tree/master/0504-base-7) |
+| [1021-remove-outermost-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rakesh-kumar07/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2864-maximum-odd-binary-number](https://github.com/rakesh-kumar07/leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -454,10 +455,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
