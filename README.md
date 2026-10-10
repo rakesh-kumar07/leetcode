@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/rakesh-kumar07/leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rakesh-kumar07/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/rakesh-kumar07/leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rakesh-kumar07/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rakesh-kumar07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rakesh-kumar07/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rakesh-kumar07/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/rakesh-kumar07/leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3894-traffic-signal-color](https://github.com/rakesh-kumar07/leetcode/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/rakesh-kumar07/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
