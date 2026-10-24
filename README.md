@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rakesh-kumar07/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/rakesh-kumar07/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/rakesh-kumar07/leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/rakesh-kumar07/leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/rakesh-kumar07/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rakesh-kumar07/leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/rakesh-kumar07/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakesh-kumar07/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rakesh-kumar07/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2409-count-days-spent-together](https://github.com/rakesh-kumar07/leetcode/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/rakesh-kumar07/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rakesh-kumar07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rakesh-kumar07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
